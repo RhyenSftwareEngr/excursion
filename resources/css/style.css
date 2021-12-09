@@ -5,11 +5,28 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+
+/* HEADINGS */
+
 .header_main {
     font-weight: normal;
     font-size: 50px;
     color: whitesmoke;
 }
+
+.header_secondary {
+    color: #ffffff;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.header_sub-header {
+    font-size: 21px;
+    color: grey;
+}
+
+
+/* links */
 
 .link_cta {
     font-size: 16px;
